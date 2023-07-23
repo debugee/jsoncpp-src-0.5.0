@@ -2,7 +2,7 @@
 
 
 #ifdef _DEBUG
-	#pragma comment(lib, "lib_json_mtd.lib")
+	#pragma comment(lib, "v12_smdd_libjson.lib")
 #else
-	#pragma comment(lib, "lib_json_mt.lib")
+	#pragma comment(lib, "v12_smd_libjson.lib")
 #endif
